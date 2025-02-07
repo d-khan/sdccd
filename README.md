@@ -1,9 +1,9 @@
-## Student learning outcomes
+# Student learning outcomes
 - Apply algorithmic and mathematical reasoning to solve a wide range of computational problems.  
 - Analyze and evaluate alternative solutions to computing problems using a programming language.
 - Use current tools in computing practice such as Integrated Development Environments and Code Sharing platforms.
 
-## Important dates/deadline
+# Important dates/deadline
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
@@ -23,7 +23,7 @@
 
 Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the Spring 2025 deadlines.
 
-## Instructor communication policy
+# Instructor communication policy
 
 Please use the Canvas Messaging System  
 
