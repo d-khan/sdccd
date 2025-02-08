@@ -1,4 +1,4 @@
-## Accommodating Students with Disabilities
+# Accommodating Students with Disabilities
 
 Students with disabilities who may need academic accommodations should contact me as soon as possible.  You and I will work with the Disability Support Programs and Services (DSPS) department to identify your appropriate academic accommodations for this course. 
 
