@@ -13,4 +13,4 @@
 |16 Aug                  |   __Session end__|
 |22 Aug                  |   __Grades:__ Deadline for instructors to submit final grades|
 
-Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the Spring 2025 deadlines.
+Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
