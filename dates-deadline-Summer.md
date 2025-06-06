@@ -1,6 +1,5 @@
 # Important dates/deadline
 
-|<div style="width600:px"    ></div> ||
 |:----------------------|:--------------|
 |9 Jun                  |   Summer 2025 10-Week Session Begins |
 |19 Jun                 |   __Juneteenth Holiday__ |
