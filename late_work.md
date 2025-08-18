@@ -1,5 +1,7 @@
 # Late work
 
-Please submit your coursework by the due date. The assignment deadlines are posted in the syllabus and also shown in Canvas. 
-Some assignments may require more time to complete than others. It's your responsibility to allocate the time needed to finish your work. Be sure to begin your work before the due date. 
-The late work is deducted 25% when submitted within 24 hours past the due date. Any work submitted past 24 hours of the due date will be graded 0.
+**Please submit your coursework by the posted deadlines. Assignment due dates are listed in the syllabus and also available in Canvas.**
+
+Some assignments may take longer than others, so it’s your responsibility to plan ahead and manage your time effectively. Be sure to start early and avoid waiting until the last minute.
+
+Late submissions will incur a **25% deduction if submitted within 24 hours after the deadline**. Any work submitted more than 24 hours late will receive a **grade of 0**.
