@@ -3,7 +3,6 @@
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
 |2 Feb                  |   Spring 2026 16-Week Session Begins |
-|1 Sep                  |   __Labor Day (COLLEGE CLOSED)__ |
 |13 Feb                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
