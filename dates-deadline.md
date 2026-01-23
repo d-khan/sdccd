@@ -6,9 +6,9 @@
 |13 Feb                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|13 - 16 Feb            |   __Presidents Weekend__ No classes |
+|13 - 16 Feb            |   __Presidents Weekend (NO CLASSES)__ |
 |17 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon |
-|30 Mar - 5 Apr         |   __Spring break__ No classes |
+|30 Mar - 5 Apr         |   __Spring break (NO CLASSES)__ |
 |3 Apr                  |   __Cesar Chavez Day__ No classes |
 |17 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
 |25 May                 |   __Memorial day (COLLEGE CLOSED)__ |
