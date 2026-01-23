@@ -1,6 +1,6 @@
 # Important dates/deadline
 
-|<div style="width500:px"></div> ||
+|**Dates** |**Description**|
 |:----------------------|:--------------|
 |2 Feb                  |   Spring 2026 16-Week Session Begins |
 |13 Feb                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
