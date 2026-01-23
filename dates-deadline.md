@@ -12,7 +12,7 @@
 |3 Apr                  |   __Cesar Chavez Day__ No classes |
 |17 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
 |25 May                 |   __Memorial day (COLLEGE CLOSED)__ |
-|1 Jun                  |   __Spring 2026 Semester end__|
+|1 Jun                  |   __Last day of Spring 2026 Semester__|
 |8 Jun                  |   __Grades:__ Deadline for instructors to submit final grades|
 |12 Jun                 |   __Final grades available__|
 
