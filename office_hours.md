@@ -11,5 +11,5 @@ __Please note that office hours are not held on holidays. For a list of holidays
 ## Wednesdays 12:30 - 1:30pm (Zoom or in-person Room-107P)
 - https://sdccd-edu.zoom.us/j/86264849566
 
-## Fridays 6 - 7pm (Zoom)
+## Fridays 6 - 7pm (Zoom only)
 - https://sdccd-edu.zoom.us/j/83958745889
