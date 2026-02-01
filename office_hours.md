@@ -6,10 +6,10 @@
 - All posted times are in Pacific Standard Time (PST). 
 
 ## Mondays 11:00 am - 1:30pm (Zoom or in-person Room-107P)
-> https://sdccd-edu.zoom.us/j/84817871355
+- https://sdccd-edu.zoom.us/j/84817871355
 
 ## Wednesdays 12:30 - 1:30pm (Zoom or in-person Room-107P)
-> https://sdccd-edu.zoom.us/j/86264849566
+- https://sdccd-edu.zoom.us/j/86264849566
 
 ## Fridays 6 - 7pm (Zoom)
-> https://sdccd-edu.zoom.us/j/83958745889
+- https://sdccd-edu.zoom.us/j/83958745889
