@@ -1,6 +1,6 @@
 # Office hours of Danish Khan (Spring 2026)
 
-> Please note that office hours are not held on holidays. For a list of holidays, refer to the [Academic Calendar](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx)  
+__Please note that office hours are not held on holidays. For a list of holidays, refer to the [Academic Calendar](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx)__   
 
 - Three office hour sessions are offered each week. Office hours will run from February 2, 2026, through Friday, May 29, 2026.    
 - All posted times are in Pacific Standard Time (PST). 
